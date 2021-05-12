@@ -1,38 +1,30 @@
 import React from 'react';
 
 const Footer = () => (
-  <footer className="container mx-auto py-16 px-3 mt-48 mb-8 text-gray-800">
-    <div className="flex -mx-3">
-      <div className="flex-1 px-3">
-        <h2 className="text-lg font-semibold">About Us</h2>
-        <p className="mt-5">Ridiculus mus mauris vitae ultricies leo integer malesuada nunc.</p>
-      </div>
-      <div className="flex-1 px-3">
-        <h2 className="text-lg font-semibold">Important Links</h2>
-        <ul className="mt-4 leading-loose">
-          <li>
-            <a href="https://codebushi.com">Terms &amp; Conditions</a>
-          </li>
-          <li>
-            <a href="https://codebushi.com">Privacy Policy</a>
-          </li>
-        </ul>
-      </div>
-      <div className="flex-1 px-3">
-        <h2 className="text-lg font-semibold">Social Media</h2>
-        <ul className="mt-4 leading-loose">
-          <li>
-            <a href="https://dev.to/changoman">Dev.to</a>
-          </li>
-          <li>
-            <a href="https://twitter.com/HuntaroSan">Twitter</a>
-          </li>
-          <li>
-            <a href="https://github.com/codebushi/gatsby-starter-lander">GitHub</a>
-          </li>
-        </ul>
-      </div>
+  <footer className="container mx-auto py-16 px-3 mt-48 mb-8">
+    <div class="text-center">
+      <h2 className="text-3xl lg:text-5xl font-semibold">Follow us on Social Media</h2>
     </div>
+      <div class="flex flex-wrap mt-10 justify-center">
+        <div class="m-3">
+          <a href="https://t.me/microshibainu" title="Micro Shiba Inu on Telegram" target="_blank"
+            class="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-600 hover:border-blue-600 hover:bg-blue-600 hover:text-white shadow-md py-2 px-6 inline-flex items-center">
+            <span class="mx-auto">Telegram</span>
+          </a>
+        </div>
+        <div class="m-3">
+          <a href="https://twitter.com/microshibainu" title="Micro Shiba Inu on Twitter" target="_blank"
+            class="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white shadow-md py-2 px-6 inline-flex items-center">
+            <span class="mx-auto">Twitter</span>
+          </a>
+        </div>
+        <div class="m-3">
+          <a href="https://www.instagram.com/microshibainu/" title="Micro Shiba Inu on Instragram" target="_blank"
+            class="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-orange-500 hover:border-orange-500 hover:bg-orange-500 hover:text-white shadow-md py-2 px-6 inline-flex items-center">
+            <span class="mx-auto">Instagram</span>
+          </a>
+        </div>
+      </div>
   </footer>
 );
 
