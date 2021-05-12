@@ -10,7 +10,7 @@ module.exports = {
       resolve: 'gatsby-plugin-react-svg',
       options: {
         rule: {
-          include: /assets/
+          include: /images/
         }
       }
     },
@@ -24,7 +24,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#FA9A2C`,
         theme_color: `#fff`,
-        icon: `src/assets/favicon-16x16.png`,
+        icon: `src/images/favicon-16x16.png`,
       },
     },
     `gatsby-plugin-react-helmet`

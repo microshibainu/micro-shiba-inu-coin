@@ -10,8 +10,8 @@ import StatsBox from '../components/StatsBox';
 import customerData from '../data/customer-data';
 import HeroImage from '../svg/HeroImage';
 import SvgCharts from '../svg/SvgCharts';
-import PancakeLogo from '../assets/pancakeswap-cake-logo.svg'
-import BackgroundImage from '../assets/micro-shiba-background-2.svg'
+import PancakeLogo from '../images/pancakeswap-cake-logo.svg'
+import BackgroundImage from '../images/micro-shiba-background-2.svg'
 
 const Index = () => (
   <Layout>
