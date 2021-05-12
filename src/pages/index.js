@@ -49,7 +49,7 @@ const Index = () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Chart</p>
               <p className="mt-4">
-                You can find our chart on <a href="https://poocoin.app/tokens/0x310484b650190355539c8d4cccc7d06e3d1314be" target="_blank">Poocoin</a>
+                You can find our chart on <br/> <a href="https://poocoin.app/tokens/0x310484b650190355539c8d4cccc7d06e3d1314be" target="_blank">Poocoin</a>
               </p>
             </Card>
           </div>
@@ -57,7 +57,7 @@ const Index = () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Purchase</p>
               <p className="mt-4">
-                You can buy our tokens on <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x310484b650190355539c8d4cccc7d06e3d1314be" target="_blank">Pancake Swap</a>
+                You can buy our tokens on <br/> <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x310484b650190355539c8d4cccc7d06e3d1314be" target="_blank">Pancake Swap</a>
               </p>
             </Card>
           </div>
