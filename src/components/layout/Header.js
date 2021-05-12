@@ -1,7 +1,7 @@
 import React from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import Logo from '../../assets/logo-micro-shiba-inu.svg';
-import PancakeLogo from '../../assets/pancakeswap-cake-logo.svg';
+import PancakeLogo from '../../images/pancakeswap-cake-logo.svg';
 import Link from '../../components/Link';
 
 const Header = () => (
