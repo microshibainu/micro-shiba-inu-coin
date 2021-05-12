@@ -1,25 +1,11 @@
-# Gatsby Lander
+# Micro Shiba Inu - Coin
 
-This is an experimental starter built using [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi), a theme which uses [Tailwind CSS](https://tailwindcss.com/).
+🐕 MICRO SHIBA INU ON BINANCE SMART CHAIN 🐕
 
-Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+🥞 MSI on PancakeSwap:
 
-## Preview
+💴 5% Redistributed to all users on each TX!
+💦 5% Added to Liquidity and Locked!
+💰 0.4% Marketing wallet!
 
-https://gatsby-lander.surge.sh/
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-lander https://github.com/codebushi/gatsby-starter-lander`
-
-Run `gatsby develop` in the terminal to start the dev site.
-
-## Notes
-
-These libraries do not yet fully support the upgrade to Gatsby 3.x:
-* gatsby-plugin-react-helmet
-* gatsby-plugin-emotion
-* gatsby-plugin-postcss
-* gatsby-theme-codebushi
+💬 Telegram: MicroShibaInu
